@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/csuer411/count.svg)
+Welcome! My ![Visitor Count](https://profile-counter.glitch.me/csuer411/count.svg) visitor
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csuer411&layout=compact)](https://github.com/csuer411/github-readme-stats)
+
 [![mico's GitHub stats](https://github-readme-stats.vercel.app/api?username=csuer411&show_icons=true&theme=dracula)](https://github.com/csuer411/github-readme-stats)
