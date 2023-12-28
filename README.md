@@ -1,24 +1,7 @@
-### Hi there 👋
-
-<!--
-**csuer411/csuer411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Welcome! My ![Visitor Count](https://profile-counter.glitch.me/csuer411/count.svg) visitor
-
+### My Profile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csuer411&layout=compact)](https://github.com/csuer411/github-readme-stats)
 
-[![mico's GitHub stats](https://github-readme-stats.vercel.app/api?username=csuer411&show_icons=true&theme=dracula)](https://github.com/csuer411/github-readme-stats)
 ##### 热衷于机器学习竞赛：
 2023讯飞AI开发者大赛Stable Diffusion文案生成器一等奖（第一名）
+
 2023人民网人工智能算法挑战赛社交媒体虚假消息检测赛道季军（第六名）
