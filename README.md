@@ -1,5 +1,5 @@
 ### My Profile
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/csuer411/competition/light)
+
 
 ##### 热衷于机器学习竞赛：
 2023讯飞AI开发者大赛Stable Diffusion文案生成器一等奖（第一名）
